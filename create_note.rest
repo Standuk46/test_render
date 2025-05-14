@@ -1,8 +1,0 @@
-POST http://localhost:3001/api/notes
-Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjY4MjM0Zjk4ZDk1MDdjNTBlYzAwMGFjYSIsImlhdCI6MTc0NzE2NTA2OH0.St0G2UNFjXLNK-Y0TaoG7YLf2qCzQincx8L1i31EIYs
-
-{
-    "content": "Test note from REST client",
-    "important": true
-}
